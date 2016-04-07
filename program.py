@@ -1,5 +1,5 @@
 #!/usr/bin/env python
 #coding: utf-8
 
-
-print("Hello")
+a = 3+2
+print(a)
